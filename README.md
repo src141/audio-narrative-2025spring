@@ -1,7 +1,8 @@
 | Needs   | Solutions   |
 |------------|------------|
 | Typing on a computer | Record myself |
-| Students talking | Freesound |
+| General cafe ambiance | Freesound |
 | Writing on a piece of paper | Freesound |
-| Students walking around | Freesound |
-| Pen tapping | Record myself |
+| Someone ordering a coffee | Freesound |
+| Pen tapping | Freesound |
+| Rain | Freesound |
